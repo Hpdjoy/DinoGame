@@ -12,8 +12,8 @@ Features
 #Retro Gameplay: Jump, duck, and avoid obstacles just like the classic browser game.
 #Educational: Learn about game development, Arduino programming, and electronics.
 #How It Works
-#DinoGame uses an Arduino board connected to a 16x2 LCD display and push button
-s for controls. Players navigate a #dinosaur character through a desert landscape,
+#DinoGame uses an Arduino board connected to a 16x2 LCD display and push buttons
+for controls. Players navigate a #dinosaur character through a desert landscape,
 jumping over cacti and avoiding dino to score points.
 
 Installation
