@@ -1,1 +1,13 @@
-help!
+need help!
+no Problem I am here!
+
+In the cicuit diagram the display shown contains only 4 pin which is I2C display.
+
+some lcd Displays may not directly contain 4 pins instead it contains 16 pins on it.
+for that we need an I2C module (I2C Module for 16x2 (1602) Character LCD). Directly solder it on display or better use a breadboard.
+
+
+Further if you need any infomation feel free to ask 
+On twiter @hpdjoy
+   instagram @hpdjoy
+   LinkedIn @hpdjoy
