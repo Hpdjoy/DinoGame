@@ -3,4 +3,13 @@ No worries, I am here!
 
 so You need to first complete the installation of Arduino ide.
 
-after that you need to 
+after that you need to Downlaod this .rar file "LiquidCrystal_I2C-1.1.2.rar" extract the file contents and copy the folder "LiquidCrystal_I2C-1.1.2" to the library folder of your arduino folder.
+(Go the file location where Your Arduino is installed find the library folder and simply paste it in that folder).
+
+now Try compiling your program.
+
+if you still facing issues feel free to contact.
+
+Twitter (now X.com)@hpdjoy
+Instagram @hpdjoy
+linkedin @hpdjoy
