@@ -33,7 +33,7 @@ Feel free to customize DinoGame:
 Adjust gameplay parameters (speed, obstacle frequency).
 Add new features, levels, or sound effects to enhance gameplay.
 Contributors
-Created by #HpdJoy
+Created by @HpdJoy
 Contributions welcome! See CONTRIBUTING.md for more information.
 
 License
