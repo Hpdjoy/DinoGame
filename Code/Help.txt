@@ -1,1 +1,6 @@
 help!
+No worries, I am here!
+
+so You need to first complete the installation of Arduino ide.
+
+after that you need to 
