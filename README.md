@@ -6,12 +6,11 @@ DinoGame is an exciting Arduino-powered game that brings the classic retro gamin
 
 
 Features
-Arduino Powered: Runs on Arduino boards, making it accessible and customizable.
-Retro Gameplay: Jump, duck, and avoid obstacles just like the classic browser game.
-Customizable: Modify gameplay mechanics, add new levels, or integrate additional hardware.
-Educational: Learn about game development, Arduino programming, and electronics.
-How It Works
-DinoGame uses an Arduino board connected to a 16x2 LCD display and push buttons for controls. Players navigate a dinosaur character through a desert landscape, jumping over cacti and avoiding flying birds to score points.
+#Arduino Powered: Runs on Arduino boards, making it accessible and customizable.
+#Retro Gameplay: Jump, duck, and avoid obstacles just like the classic browser game.
+#Educational: Learn about game development, Arduino programming, and electronics.
+#How It Works
+#DinoGame uses an Arduino board connected to a 16x2 LCD display and push buttons for controls. Players navigate a #dinosaur character through a desert landscape, jumping over cacti and avoiding dino to score points.
 
 Installation
 Setup Arduino Environment:
